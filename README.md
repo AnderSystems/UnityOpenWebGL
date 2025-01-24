@@ -16,7 +16,7 @@ Make sure you have the following installed:
 📝 Setup Instructions
 ---------------------
 
-1.  Clone the repository to your computer ```git clone https://github.com/your-username/repository-name.gitcd repository-name```
+1.  Clone the repository to your computer ```git clone https://github.com/AnderSystems/UnityOpenWebGL```
     
 2.  Navigate to the project folder and install the dependencies ```npm install```
     
